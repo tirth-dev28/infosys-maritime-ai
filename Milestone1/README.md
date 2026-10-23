@@ -50,8 +50,8 @@ The files for this milestone are organized as follows:
 Milestone1/
 ├── README.md
 ├── FreightQuote_AI_Authentication.ipynb
-├── otp_service.py                 (created by the notebook)
-├── app.py                         (created by the notebook)
+├── otp_service.py                
+├── app.py                         
 └── screenshots/
     ├── login_page.png
     ├── signup_page.png
@@ -68,7 +68,7 @@ Milestone1/
 
 Google Drive/
 └── MyDrive/FreightQuoteDB/
-    └── infosys_portal.db          (created on first run)
+    └── infosys_portal.db         
 ```
 
 ## 6. Database Tables
