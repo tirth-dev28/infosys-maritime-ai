@@ -152,41 +152,41 @@ These were run against the seeded demo database through the Copilot engine. **Th
 All screenshots are in the `screenshots/` folder.
 
 ### Landing page
-![Landing page](screenshots/12_landing_page.png)
+![Landing page](screenshot/12_landing_page.png)
 
 ### Login and sign-up
-![Login page](screenshots/01_login.png)
-![Sign-up page](screenshots/02_signup.png)
-![Email verification](screenshots/10_email_verification.png)
+![Login page](screenshot/01_login.png)
+![Sign-up page](screenshot/02_signup.png)
+![Email verification](screenshot/10_email_verification.png)
 
 ### Profile page
 ![Profile page](screenshots/03_profile.png)
 
 ### Admin dashboard with users table
-![Admin dashboard](screenshots/04_admin_dashboard.png)
-![Users table with Lock and Delete](screenshots/04b_admin_users_table.png)
-![Activity log and RBAC privilege matrix](screenshots/04c_admin_audit_log_and_rbac_matrix.png)
+![Admin dashboard](screenshot/04_admin_dashboard.png)
+![Users table with Lock and Delete](screenshot/04b_admin_users_table.png)
+![Activity log and RBAC privilege matrix](screenshot/04c_admin_audit_log_and_rbac_matrix.png)
 
 ### Denied (403) action for a restricted role
 A Customer opening the Route module is refused with 403.
 
-![Denied 403](screenshots/05_denied_403.png)
+![Denied 403](screenshot/05_denied_403.png)
 
 ### Role matrix
 The role matrix is in section 3 of this README, in the Admin Dashboard (above) and in the notebook.
 
-![Role matrix in the notebook](screenshots/11_role_matrix.png)
+![Role matrix in the notebook](screenshot/11_role_matrix.png)
 
 ### AI Copilot: a greeting and an exact question
-![Copilot greeting and exact answer](screenshots/06_copilot_greeting_and_exact_answer.png)
+![Copilot greeting and exact answer](screenshot/06_copilot_greeting_and_exact_answer.png)
 
 ### Generated quote
-![Generated quote](screenshots/08_generated_quote.png)
+![Generated quote](screenshot/08_generated_quote.png)
 
 ### Weather Risk page after a storm
 With storm cells injected, the Weather Risk page shows 4 active storms and 2 vessels in high risk (live Open-Meteo data for 252 ports).
 
-![Weather Risk after storm](screenshots/09_weather_after_storm.png)
+![Weather Risk after storm](screenshot/09_weather_after_storm.png)
 
 ---
 
