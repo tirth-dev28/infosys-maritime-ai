@@ -189,22 +189,12 @@ With storm cells injected, the Weather Risk page shows 4 active storms and 2 ves
 ![Weather Risk after storm](screenshot/09_weather_after_storm.png)
 
 ---
-
 ## 7. Team contributions
 
 | Member | Work |
 | --- | --- |
-| Person 1 | Milestone 1 landing page added to the provided code, UI updates and consistent styling, role-specific UI changes |
-| Person 2 | Profile page (view, username and password change, validation, saving changes) and role-specific views |
-| Person 3 | Admin Dashboard and RBAC permissions for all five roles |
-| Person 4 | AI Copilot: data connection, 18 SQL question patterns, error handling and unsupported-question replies |
-
----
-
-## 8. Notes
-
-- Seeded data is for demonstration only. It is not live commercial freight pricing or authoritative customs information.
-- Colab storage is temporary. For continuous hosting use a durable database, HTTPS, configured email, backups and monitoring.
-- The repository contains no secrets, tokens or `.db` files. All secrets are read from Colab Secrets.
-- Notebook outputs were cleared before submission.
+| Tirth | Profile page (view, username and password change, validation, saving changes) and role-specific views |
+| Aparna  | Milestone 1 landing page added to the provided code, UI updates and consistent styling, role-specific UI changes |
+|  Triveni | Admin Dashboard and RBAC permissions for all five roles |
+| Shivam  | AI Copilot: data connection, 18 SQL question patterns, error handling and unsupported-question replies |
 
